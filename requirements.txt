@@ -6,3 +6,4 @@ beautifulsoup4
 requests
 gTTS
 google-generativeai
+python-multipart
